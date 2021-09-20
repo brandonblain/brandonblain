@@ -5,7 +5,7 @@
 <h1> Console.log('Hello, I´m Brandon Martinez'); <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <h2> A passionate Fullstack Jr from México</h2>
   
-##My Skills ✨ 
+<h1> My Skills ✨ </h1>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonblaine&show_icons=true&theme=highcontrast&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
