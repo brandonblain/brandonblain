@@ -1,6 +1,7 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://i.ibb.co/fMMrKmY/portadalinkein.jpg" alt="portadalinkein" alt="cover" />
+<img width="100%" height = "250px" src="https://i.ibb.co/Fn1NvgW/portadalinkeinfunny.jpg" alt="portadalinkeinfunny" alt="cover" />
+  
 </div>
 <h1> Console.log('Hello, I´m Brandon Martinez'); <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <h2> A passionate Fullstack Jr from México</h2>
