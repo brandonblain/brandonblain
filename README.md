@@ -6,6 +6,7 @@
 <h2> A passionate Fullstack Jr from México</h2>
   
 <h1> My Skills ✨ </h1>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonblaine&show_icons=true&theme=highcontrast&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,12 +18,7 @@
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
-
-
-Here are some ideas to get you started:
+Here are some things that I am:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
