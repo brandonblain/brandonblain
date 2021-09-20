@@ -37,7 +37,7 @@ Here are some things that I am:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonblaine&show_icons=true&theme=highcontrast&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-![Metrics](https://metrics.lecoq.io/brandonblaine?template=classic&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/brandonblain?template=classic&config.timezone=America%2FToronto)
 
 
 
