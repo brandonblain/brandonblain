@@ -39,7 +39,3 @@ Here are some things that I am:
 
 ![Metrics](https://metrics.lecoq.io/brandonblain?template=classic&config.timezone=America%2FToronto)
 
-
-
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
