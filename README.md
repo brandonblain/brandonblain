@@ -20,7 +20,8 @@ Here are some things that I am:
 - ⚡ Fun fact: I love movies and play video games also I like to go the gym and learn more about all 
 
 <br><br>
-<h1>My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
+<h1 align="center">My Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
+<div align="center">
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
@@ -30,7 +31,7 @@ Here are some things that I am:
 <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
 <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/dusk/64/000000/php-logo.png"/></a>
 <a href="https://icons8.com/icon/20909/html-5"><img width ='32px' src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-
+</div>
 
 <h1> My Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h1>
 
