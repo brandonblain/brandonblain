@@ -3,8 +3,8 @@
 <img width="100%" height = "230px" src="https://i.ibb.co/Fn1NvgW/portadalinkeinfunny.jpg" alt="portadalinkeinfunny" alt="cover" />
   
 </div>
-<h1> Console.log('Hello, I´m Brandon Martinez'); <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<h2> A passionate Fullstack Jr from México</h2>
+<h1 align="center"> Console.log('Hello, I´m Brandon Martinez'); <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h2 align="center"> A passionate Fullstack Jr from México</h2>
   
 <h1> About Me <img src="https://media1.giphy.com/media/SYjYYopqUTBtE3XZxg/giphy.gif?cid=ecf05e47bwy3m5dxcc60ttw1mxkegfhiit2uv8aeyt2note2&rid=giphy.gif&ct=s" width = 50px></h1>
 
