@@ -6,7 +6,7 @@
 <h1 align="center"> Console.log('Hello, I´m Brandon Martinez'); <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <h2 align="center">💻 A passionate Fullstack Jr from México ☕</h2>
 <br><br>  
-<img width="55%" align="right" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47xcieen1ik5t6la3g0e0y456at5e8blbspafkjt3u&rid=giphy.gif&ct=g" />
+<img width="55%" align="right" src="https://media2.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif?cid=ecf05e47gqcz3p6x6k011geiy7epjjabjbmmw8rwbinng38p&rid=giphy.gif&ct=g" />
 <h1> About Me <img src="https://media1.giphy.com/media/SYjYYopqUTBtE3XZxg/giphy.gif?cid=ecf05e47bwy3m5dxcc60ttw1mxkegfhiit2uv8aeyt2note2&rid=giphy.gif&ct=s" width = 50px></h1>
 
 Here are some things that I am:
