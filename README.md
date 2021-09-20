@@ -37,5 +37,9 @@ Here are some things that I am:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonblaine&show_icons=true&theme=highcontrast&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonblaine&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/brandonblaine?template=classic&config.timezone=America%2FToronto)
 
+
+
+<br>
+<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
