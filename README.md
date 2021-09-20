@@ -37,7 +37,7 @@ Here are some things that I am:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonblaine&show_icons=true&theme=highcontrast&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonblaine&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
