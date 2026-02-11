@@ -95,16 +95,20 @@ I am a passionate developer who blends technical logic with creative design. Cur
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonblain&show_icons=true&theme=highcontrast&hide=stars&border_radius=10)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brandonblain&show_icons=true&theme=highcontrast&hide=stars&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonblain&layout=compact&theme=highcontrast&border_radius=10" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonblain&layout=compact&theme=highcontrast&border_radius=10)
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandonblain&theme=highcontrast&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
 ---
-<p align="center">
-  <img src="https://metrics.lecoq.io/brandonblain?template=classic&config.timezone=America%2FToronto" width="100%" />
-</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%" />
+</div>
